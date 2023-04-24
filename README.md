@@ -1,0 +1,2 @@
+# DatMin
+Naive Bayes
